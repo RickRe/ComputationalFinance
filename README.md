@@ -1,5 +1,5 @@
 # Sample code
-These code are picked from my course work for MSc Module "Foundations of Machine Learning" 2018
+These code were picked from my course work for MSc Module "Foundations of Machine Learning" 2018
 
 ### Classify two Guassian distributions
 
